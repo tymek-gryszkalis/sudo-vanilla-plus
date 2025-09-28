@@ -2,7 +2,7 @@
 
 Siemaneczko. Miło mi w końcu zaprezentować modpack **SUDO Vanilla+**. Paczka modów, która pojawiała się i znikała na przestrzeni ostatnich kilku lat w końcu została uporządkowana, przetestowana i przygotowana jako (prawie) plug & play.
 
-Paczka została przygotowana według mojego personalnego gustu. Jest pełna bajerów, fajnych animacji, nowych efektów (mocno inspirowanych modem _actions & stuff_) oraz optymalizacji, ale jednocześnie pozostaje wierna oryginalnemu stylowi minecrafta. Dokładna lista modów znajduje się [tutaj](./lists/modlist.md), a resource-packów [tutaj](./lists/resourcepacks.md).
+Paczka została przygotowana według mojego personalnego gustu. Jest pełna bajerów, fajnych animacji, nowych efektów (mocno inspirowanych modem _actions & stuff_) oraz optymalizacji, ale jednocześnie pozostaje wierna oryginalnemu stylowi minecrafta. Dokładna lista modów znajduje się [tutaj](./lists/mods.md), a resource-packów [tutaj](./lists/resourcepacks.md).
 
 **SUDO V+** jest w pełni **client-sided** tj. nie potrzebuje żadnych instalacji po stronie serwera. Możecie jej używać zarówno w światach singleplayer jak i waniliowych serwerach multiplayer. Jest to też dobra baza do budowania własnych paczek. Porady dotyczące modyfikacji i wprowadzania zmian w paczce znajdują się poniżej.
 
