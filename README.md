@@ -46,6 +46,7 @@ Paczka jest przygotowana tak żeby nie trzeba było nic w niej grzebać, ale jed
   - Jeśli chcesz zmienić czcionkę, to wyłącz resourcepack _Compact Font_.
   - W ogóle przed edycją _Vanilla Tweaks_ zwróć uwagę na resourcepacki, czy któryś już nie zajmuje się rzeczą, którą chcesz ustawić.
 - **ClientSort Dark Mode** - wyłacz jeżeli w _Vanilla Tweaks_ wyłączyłxś ciemne GUI
+- **Fresh Moves** - tutaj nie do końca kwestia edycji samego resourcepacka, ale rzecz, której warto się przyjrzeć to animacje skinów, które dodaje. Resourcepack animuje oczy i brwi skinów, które są odpowiednio przygotowane. Instrukcje jak przygotować takiego skina można znaleźć [tutaj](https://github.com/IthanMendoza/Fresh-Moves/wiki).
 
 ### Shadery
 
