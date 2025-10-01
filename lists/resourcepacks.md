@@ -1,38 +1,38 @@
 > Uwaga! Resourcepacki przedstawione są w kolejności w jakiej powinny być widoczne w grze. Jeżeli zostały wprowadzone jakieś zmiany, należy się upewnić, że kolejność resourcepacków odpowiada tej poniżej. Resourcepacki ładowane są w kolejności od dołu do góry.
 
-- SUDO V+ additions
-- Example Animations
+- SUDO V+ Assets
 - Brodi's Illagers FA
 - AL's Creepers Revamped
 - AL's Piglins Revamped
 - AL's Skeletons Revamped - Classic Face
 - AL's Skeletons Revamped
-- AL'S Zombies Revamped
+- Bray's Zombie Overhaul
 - Icon Fresh
+- Example Animations
 - FA + Emissive
 - Fresh Moves
 - Fresh Animations
 - Gentler Weather Sounds
 - Eating Animation
+- ClientSort Dark Mode
 - Bibliophilia
 - Visual Armor Trims
 - Enchant Icons
-- ClientSort Dark Mode
-- Compact Font
 - Biome Water Color Particles
-- Traben's 3D Armor
+- Compact Font
 - PDB3D's Blocky Armor Stand
+- Traben' 3D Armor
 - Mace But 3D
 - Bushier Bushes
 - Better Leaves
 - 3D Trial Chambers
-- Flower Pots
 - Crops 3D
 - Chest Reimagined
 - Torches Reimagined
 - Connected Paths
 - Lambda Better Grass
 - Vanilla Tweaks
+- Flower Pots
 - Glass Pane Culling Fix
 - Default Connected Textures
 - Fabric Mods
