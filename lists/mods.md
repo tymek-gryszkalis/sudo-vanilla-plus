@@ -29,7 +29,6 @@
 - [Detail Armor Bar Reconstructed](https://modrinth.com/mod/Si9Uim4y) [4\.3\.0\+1\.21\.8\-fabric]
 - [Distant Horizons](https://modrinth.com/mod/uCdwusMi) [2\.3\.4\-b]
 - [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) [3\.9\.6]
-- [EnhancedVisuals](https://modrinth.com/mod/KjL0jE2w) [1\.8\.24]
 - [Entity Model Features](https://modrinth.com/mod/4I1XuqiY) [3\.0\.1]
 - [Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) [7\.0\.2]
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB) [1\.8\.2]
