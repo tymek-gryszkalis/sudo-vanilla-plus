@@ -1,92 +1,97 @@
-- [AmbientSounds](https://modrinth.com/mod/fM515JnW) [6\.2\.1]
-- [Animated Mojang Logo](https://modrinth.com/mod/dWUOweyL) [1\.2]
-- [AppleSkin](https://modrinth.com/mod/EsAfCjCV) [3\.0\.6\+mc1\.21\.6]
-- [Architectury](https://modrinth.com/mod/lhGA9TYQ) [17\.0\.8]
-- [BadOptimizations](https://modrinth.com/mod/g96Z4WVZ) [2\.3\.0]
-- [Better Advancements](https://modrinth.com/mod/Q2OqKxDG) [0\.4\.6\.45]
-- [Better Statistics Screen](https://modrinth.com/mod/n6PXGAoM) [4\.0\.0]
-- [Better Third Person](https://modrinth.com/mod/G1s2WpNo) [1\.9\.0]
-- [BetterF3](https://modrinth.com/mod/8shC1gFX) [15\.0\.0]
-- [Blur\+](https://modrinth.com/mod/NK39zBp2) [5\.2\.2]
-- [Boat Item View](https://modrinth.com/mod/BdKIyOLe) [0\.0\.6]
-- [BookshelfInspector](https://modrinth.com/mod/rOrXjyPb) [2\.1\+1\.21\.8]
-- [CICADA](https://modrinth.com/mod/IwCkru1D) [0\.14\.2\+1\.21\.6\-and\-above]
-- [CameraOverhaul](https://modrinth.com/mod/m0oRwcZx) [2\.0\.4\-fabric\+mc\.1\.21\.5\-plus]
-- [Cave Dust](https://modrinth.com/mod/jawg7zT1) [3\.0\.1]
-- [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) [0\.13\.22]
-- [ChatAnimation](https://modrinth.com/mod/DnNYdJsx) [1\.0\.7]
-- [ClientSort](https://modrinth.com/mod/K0AkAin6) [2\.0\.0\-beta\.20\+1\.21\.8]
-- [Cloth Config v19](https://modrinth.com/mod/9s6osm5g) [19\.0\.147]
-- [Cobweb](https://modrinth.com/mod/dQcfqGbl) [1\.3\.3]
-- [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) [0\.3\.5\+alpha\.0\.8\+1\.21\.8]
-- [Continuity](https://modrinth.com/mod/1IjD5062) [3\.0\.1\-beta\.1\+1\.21\.6]
-- [Controllable](https://www.curseforge.com/projects/317269) [0\.25\.3]
-- [Controlling](https://modrinth.com/mod/xv94TkTM) [26\.0\.3]
-- [CoolRain](https://modrinth.com/mod/iDyqnQLT) [1\.3\.0\-1\.21\.8]
-- [CreativeCore](https://modrinth.com/mod/OsZiaDHq) [2\.14\.7]
-- [Cut Through](https://modrinth.com/mod/Dk6su9JN) [21\.8\.0]
-- [Dark Loading Screen](https://modrinth.com/mod/h3XWIuzM) [1\.6\.17]
-- [Detail Armor Bar Reconstructed](https://modrinth.com/mod/Si9Uim4y) [4\.3\.0\+1\.21\.8\-fabric]
-- [Distant Horizons](https://modrinth.com/mod/uCdwusMi) [2\.3\.4\-b]
-- [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) [3\.9\.6]
-- [Entity Model Features](https://modrinth.com/mod/4I1XuqiY) [3\.0\.1]
-- [Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) [7\.0\.2]
-- [EntityCulling](https://modrinth.com/mod/NNAgCjsB) [1\.8\.2]
-- [Explosive Enhancement](https://modrinth.com/mod/OSQ8mw2r) [1\.3\.0\-1\.21\.4]
-- [Fabric API](https://modrinth.com/mod/P7dR8mSH) [0\.133\.4\+1\.21\.8]
-- [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) [1\.13\.6\+kotlin\.2\.2\.20]
-- [Fast IP Ping](https://modrinth.com/mod/9mtu0sUO) [1\.0\.7]
-- [FerriteCore](https://modrinth.com/mod/uXXizFIs) [8\.0\.0]
-- [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) [21\.8\.1]
-- [Framework](https://www.curseforge.com/projects/549225) [0\.12\.3]
-- [Fzzy Config](https://modrinth.com/mod/hYykXjDp) [0\.7\.2\+1\.21\.6]
-- [Glowing Trims](https://modrinth.com/mod/V1c2WNSt) [1\.0]
-- [Held Item Info](https://modrinth.com/mod/tEcWzCZz) [1\.8\.0]
-- [Hold My Items](https://modrinth.com/mod/AP8rDDLS) [5\.0]
-- [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) [1\.12\.1\+1\.21\.8]
-- [Iris](https://modrinth.com/mod/YL57xq9U) [1\.9\.2\+mc1\.21\.8]
-- [Krypton](https://modrinth.com/mod/fQEb0iXm) [0\.2\.9]
-- [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) [4\.7\.1\+1\.21\.8]
-- [LambdaBetterGrass](https://modrinth.com/mod/2Uev7LdA) [2\.3\.2\+1\.21\.8]
-- [Leave My Bars Alone](https://modrinth.com/mod/gK9mebQg) [21\.8\.0]
-- [LibJF](https://modrinth.com/mod/WKwQAwke) [3\.19\.2]
-- [Lithium](https://modrinth.com/mod/gvQqBUqZ) [0\.18\.1\+mc1\.21\.8]
-- [Locator Heads](https://modrinth.com/mod/L4pt5egz) [1\.2\.0]
-- [M\.R\.U](https://modrinth.com/mod/SNVQ2c0g) [1\.0\.21\+edge\+1\.21\.8\+fabric]
-- [Make Bubbles Pop](https://modrinth.com/mod/gPCdW0Wr) [0\.3\.1\-fabric]
-- [Minecraft Cursor](https://modrinth.com/mod/o5fhgLeQ) [3\.10\.0\+1\.21\.6]
-- [Mod Menu](https://modrinth.com/mod/mOgUt4GM) [15\.0\.0]
-- [No Resource Pack Warnings](https://modrinth.com/mod/6xKUDQcB) [1\.3\.1]
-- [No Telemetry](https://modrinth.com/mod/hg77g4Pw) [1\.9\.0]
-- [NotEnoughAnimations](https://modrinth.com/mod/MPCX6s5C) [1\.10\.2]
-- [OctoLib](https://modrinth.com/mod/RH2KUdKJ) [0\.6\.0\.4]
-- [Panorandom](https://modrinth.com/mod/tus7XMhG) [1\.0\.1\-mc1\.21\.6\+]
-- [Particle Effects](https://modrinth.com/mod/PLAGcSFJ) [1\.0\.7\+1\.21\.8]
-- [Particle Rain](https://modrinth.com/mod/nrikgvxm) [4\.0\.0\-beta\.1\+1\.21\.6\-fabric]
-- [Pick Up Notifier](https://modrinth.com/mod/ZX66K16c) [21\.8\.1]
-- [Placeholder API](https://modrinth.com/mod/eXts2L7r) [2\.7\.2\+1\.21\.8]
-- [Presence Footsteps](https://modrinth.com/mod/rcTfTZr3) [1\.11\.1\+1\.21\.7]
-- [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) [21\.8\.6]
-- [Resource Pack Options](https://modrinth.com/mod/TiF5QWZY) [4\.13\.7]
-- [ScalableLux](https://modrinth.com/mod/Ps1zyz6x) [0\.1\.5\.1\+fabric\.abdeefa]
-- [Scribble](https://modrinth.com/mod/yXAvIk0x) [1\.6\.4]
-- [Searchables](https://modrinth.com/mod/fuuu3xnx) [1\.0\.2]
-- [Show Me Your Skin\!](https://modrinth.com/mod/bD7YqcA3) [1\.11\.3\+1\.21\.6]
-- [Smoke Signals](https://modrinth.com/mod/pwEUrYbl) [1\.1]
-- [Smoke Suppression](https://modrinth.com/mod/nKcekY2P) [1\.2\.5]
-- [Smooth Scrolling Refurbished](https://modrinth.com/mod/trr0scVt) [1\.4\.0]
-- [SmoothGui](https://modrinth.com/mod/j6yrZogB) [0\.1\.3]
-- [Sodium](https://modrinth.com/mod/AANobbMI) [0\.7\.0\+mc1\.21\.8]
-- [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) [0\.6\.6\+mc1\.21\.6]
-- [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) [1\.21\.8\-1\.5\.1]
-- [Sounds](https://modrinth.com/mod/ZouiUX7t) [2\.4\.16\+edge\+1\.21\.8\+fabric]
-- [Status Effect Bars](https://modrinth.com/mod/x02cBj9Y) [1\.0\.9]
-- [Subtle Effects](https://modrinth.com/mod/4q8UOK1d) [1\.12\.1]
-- [TCDCommons API](https://modrinth.com/mod/Eldc1g37) [4\.0\.1\+fabric\-1\.21\.8]
-- [Tiny Item Animations](https://modrinth.com/mod/wMkevcSR) [1\.2\.3]
-- [VTDownloader](https://modrinth.com/mod/1E2sq1cp) [2\.3\.5\+1\.21\.6]
-- [Visuality](https://modrinth.com/mod/rI0hvYcd) [0\.7\.10\+1\.21\.5]
-- [Wakes](https://modrinth.com/mod/dlNu0RQY) [0\.4\.3\+1\.21\.8]
-- [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj) [25\.2\.12]
-- [Xaero's World Map](https://modrinth.com/mod/NcUtCpym) [1\.39\.13]
-- [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) [3\.7\.1\+1\.21\.6\-fabric]
+- **[AmbientSounds](https://modrinth.com/mod/fM515JnW)** [6\.2\.1] - zestaw wielu ładnych ambientowych dźwięków
+- **[Animated Mojang Logo](https://modrinth.com/mod/dWUOweyL)** [1\.2] - logo Mojang po załadowaniu gry dostaje krótką ładną animację
+- **[AppleSkin](https://modrinth.com/mod/EsAfCjCV)** [3\.0\.6\+mc1\.21\.6] - dodaje informacje o tym ile jedzenie odnowi głodu i jaką da saturację
+- **[Architectury](https://modrinth.com/mod/lhGA9TYQ)** [17\.0\.8] - support
+- **[BadOptimizations](https://modrinth.com/mod/g96Z4WVZ)** [2\.3\.1] - optymalizacja gry
+- **[Better Advancements](https://modrinth.com/mod/Q2OqKxDG)** [0\.4\.6\.45] - porządkuje ekran advancementów
+- **[Better Statistics Screen](https://modrinth.com/mod/n6PXGAoM)** [4\.0\.0] - porządkuje i usprawnia ekran statystyk
+- **[Better Third Person](https://modrinth.com/mod/G1s2WpNo)** [1\.9\.0] - dodaje lepszy, bardziej współczesny widok z trzeciej osoby
+- **[BetterF3](https://modrinth.com/mod/8shC1gFX)** [15\.0\.0] - dodaje ładniejszy, kolorowy i customowy ekran debugowania (F3)
+- **[Blur\+](https://modrinth.com/mod/NK39zBp2)** [5\.2\.2] - dodaje rozmycie tła w menu pauzy, ekwipunku itd.
+- **[Boat Item View](https://modrinth.com/mod/BdKIyOLe)** [0\.0\.6] - pozwala na podgląd niektórych itemów (np. mapy) na bieżąco podczas prowadzenia łodzi
+- **[BookshelfInspector](https://modrinth.com/mod/rOrXjyPb)** [2\.1\+1\.21\.8] - wyświetla tytuły książek na półkach
+- **[CICADA](https://modrinth.com/mod/IwCkru1D)** [0\.14\.3\+1\.21\.6\-1\.21\.8] - support
+- **[CameraOverhaul](https://modrinth.com/mod/m0oRwcZx)** [2\.0\.4\-fabric\+mc\.1\.21\.5\-plus] - dodaje subtelny ruch kamery pierwszoosobowej
+- **[Cave Dust](https://modrinth.com/mod/jawg7zT1)** [3\.0\.1] - dodaje cząsteczki pyłu w jaskiniach
+- **[Chat Heads](https://modrinth.com/mod/Wb5oqrBJ)** [0\.14\.0] - dodaje główki graczy obok nicków na czacie
+- **[ChatAnimation](https://modrinth.com/mod/DnNYdJsx)** [1\.0\.7] - dodaje animacje do czatu
+- **[ClientSort](https://modrinth.com/mod/K0AkAin6)** [2\.0\.0\-beta\.20\+1\.21\.8] - dodaje szybkie sortowanie ekwipunku i kontenerów
+- **[Cloth Config v19](https://modrinth.com/mod/9s6osm5g)** [19\.0\.147] - support
+- **[Cobweb](https://modrinth.com/mod/dQcfqGbl)** [1\.3\.3] - support
+- **[Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q)** [0\.3\.5\+alpha\.0\.8\+1\.21\.8] - optymalizacja ładowania chunkó
+- **[Continuity](https://modrinth.com/mod/1IjD5062)** [3\.0\.1\-beta\.1\+1\.21\.6] - silnik do łączenia tekstur
+- **[Controllable](https://www.curseforge.com/projects/317269)** [0\.25\.3] - wsparcie dla kontrolerów
+- **[Controlling](https://modrinth.com/mod/xv94TkTM)** [26\.0\.3] - pozwala na wyszukiwanie keybindów w opcjach
+- **[CoolRain](https://modrinth.com/mod/iDyqnQLT)** [1\.3\.0\-1\.21\.8] - dodaje dźwięk deszczu padającego na różne powierzchnie
+- **[CreativeCore](https://modrinth.com/mod/OsZiaDHq)** [2\.14\.7] - support
+- **[Cubes Without Borders](https://modrinth.com/mod/ETlrkaYF)** [3\.0\.0\+mc1\.21\.5] - dodaje tryb pełnoekranowy bez ramki do opcji wyświetlania
+- **[Cut Through](https://modrinth.com/mod/Dk6su9JN)** [21\.8\.0] - pozwala na atakowanie mobów przez wysoką trawę
+- **[Dark Loading Screen](https://modrinth.com/mod/h3XWIuzM)** [1\.6\.17] - zamienia ekran ładowania na ciemny
+- **[Detail Armor Bar Reconstructed](https://modrinth.com/mod/Si9Uim4y)** [4\.3\.5\+1\.21\.6\_8\-fabric] - zmienia wygląd zbroi na HUDzie w zależności od tego jaką zbroję mamy na sobie
+- **[Distant Horizons](https://modrinth.com/mod/uCdwusMi)** [2\.3\.4\-b] - dodaje LOD do gry, czyli generowanie dalekiego terenu w niższej jakości, co pozwala na komicznie duży render distance
+- **[Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1)** [3\.9\.6] - zmniejsza limit klatek w grze, kiedy przeglądamy inne okna w systemie, co zmniejsza zużycie zasobów komputera
+- **[Entity Model Features](https://modrinth.com/mod/4I1XuqiY)** [3\.0\.1] - support
+- **[Entity Texture Features](https://modrinth.com/mod/BVzZfTc1)** [7\.0\.2] - support
+- **[EntityCulling](https://modrinth.com/mod/NNAgCjsB)** [1\.8\.2] - optymalizacja gry
+- **[Explosive Enhancement](https://modrinth.com/mod/OSQ8mw2r)** [1\.3\.0\-1\.21\.4] - dodaje ładniejsze efekty wybuchów
+- **[Fabric API](https://modrinth.com/mod/P7dR8mSH)** [0\.134\.0\+1\.21\.8] - support
+- **[Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL)** [1\.13\.6\+kotlin\.2\.2\.20] - support
+- **[Fast IP Ping](https://modrinth.com/mod/9mtu0sUO)** [1\.0\.7] - zmienia protokół pingowania serwerów, co eliminuje latający w nieskończoność niebieski pasek w menu multiplayer
+- **[FerriteCore](https://modrinth.com/mod/uXXizFIs)** [8\.0\.0] - support
+- **[Forge Config API Port](https://modrinth.com/mod/ohNO6lps)** [21\.8\.1] - support
+- **[Framework](https://www.curseforge.com/projects/549225)** [0\.12\.3] - support
+- **[Fzzy Config](https://modrinth.com/mod/hYykXjDp)** [0\.7\.2\+1\.21\.6] - support
+- **[Glowing Trims](https://modrinth.com/mod/V1c2WNSt)** [1\.0] - dodaje emisję światła do trimów zbroi
+- **[Hardcover](https://modrinth.com/mod/A41bVvas)** [7\.1\.0\+1\.21\.8] - ulepsza działanie i dodaje opcje konfiguracji książeczki z recepturami
+- **[Held Item Info](https://modrinth.com/mod/tEcWzCZz)** [1\.8\.0] - dodaje pełne info o trzymanym przedmiocie (np. enchanty)
+- **[Hold My Items](https://modrinth.com/mod/AP8rDDLS)** [5\.0] - dodaje nowe animacje i modele dla widoku pierwszoosobowego
+- **[ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci)** [1\.12\.1\+1\.21\.8] - optymalizacja gry
+- **[Iris](https://modrinth.com/mod/YL57xq9U)** [1\.9\.2\+mc1\.21\.8] - silnik dla shaderów
+- **[Krypton](https://modrinth.com/mod/fQEb0iXm)** [0\.2\.9] - optymalizacja gry
+- **[LambDynamicLights](https://modrinth.com/mod/yBW8D80W)** [4\.7\.2\+1\.21\.8] - dodaje dynamiczne światło, czyli np. pochodnia trzymana w ręce świeci
+- **[LambdaBetterGrass](https://modrinth.com/mod/2Uev7LdA)** [2\.3\.2\+1\.21\.8] - dodaje logikę porastania dla bloków trawy, dzięki czemu świat wygląda ładniej
+- **[Leave My Bars Alone](https://modrinth.com/mod/gK9mebQg)** [21\.8\.0] - usuwa ukrywanie elementów HUD np. podczas jazdy na koniu
+- **[LibJF](https://modrinth.com/mod/WKwQAwke)** [3\.19\.2] - support
+- **[Lighty](https://modrinth.com/mod/yjvKidNM)** [3\.1\.0] - pozwala na podgląd poziomu oświetlenia po kliknięciu F7
+- **[Lithium](https://modrinth.com/mod/gvQqBUqZ)** [0\.18\.1\+mc1\.21\.8] - optymalizacja gry
+- **[Locator Heads](https://modrinth.com/mod/L4pt5egz)** [1\.2\.0] - zamienia kropki na radarze na główki graczy
+- **[M\.R\.U](https://modrinth.com/mod/SNVQ2c0g)** [1\.0\.22\+edge\+1\.21\.8\+fabric] - support
+- **[Make Bubbles Pop](https://modrinth.com/mod/gPCdW0Wr)** [0\.3\.1\-fabric] - dodaje animację pękania bąbelków na hudzie i cząsteczek
+- **[Minecraft Cursor](https://modrinth.com/mod/o5fhgLeQ)** [3\.10\.0\+1\.21\.6] - dodaje customowy kursor
+- **[Mod Menu](https://modrinth.com/mod/mOgUt4GM)** [15\.0\.0] - dodaje menu, w którym można przeglądać i konfigurować zainstalowane mody
+- **[Model Gap Fix](https://modrinth.com/mod/QdG47OkI)** [1\.21\.5\-1\.12] - naprawia błąd ze skalowaniem tekstur powodujący brzydkie przerwy w niektórych modelach itemów
+- **[No Telemetry](https://modrinth.com/mod/hg77g4Pw)** [1\.9\.0] - blokuje zbieranie danych przez microsoft
+- **[NoRealmsButton](https://modrinth.com/mod/AMMUyCdF)** [2\.0\.2] - usuwa menu realmsów (straszne gówno i tak nikt tego nie używa)
+- **[NotEnoughAnimations](https://modrinth.com/mod/MPCX6s5C)** [1\.10\.2] - dodaje różne animacje dla postaci graczy, np. wchodznie po drabinie, jedzenie albo czytanie mapy
+- **[OctoLib](https://modrinth.com/mod/RH2KUdKJ)** [0\.6\.0\.4] - support
+- **[Packed Packs](https://modrinth.com/mod/8Pq6Exn2)** [1\.2\.1\+1\.21\.6] - usprawnia menu resourcepacków, pozwalając m. in. przeciągać paczki myszką czy zapisywać load ordery
+- **[Panorandom](https://modrinth.com/mod/tus7XMhG)** [1\.0\.1\-mc1\.21\.6\+] - wyciąga różne panoramy z zainstalowanych resourcepacków i wyświetla je losowo
+- **[Particle Effects](https://modrinth.com/mod/PLAGcSFJ)** [1\.0\.8\+1\.21\.8] - dodaje nowe cząsteczki dla efektów mikstur, dzięki czemu widać kto jest pod wpływem czego
+- **[Particle Rain](https://modrinth.com/mod/nrikgvxm)** [4\.0\.0\-beta\.2\+1\.21\.6\-fabric] - sprawia, że deszcz i śnieg są ładniejsze
+- **[Pick Up Notifier](https://modrinth.com/mod/ZX66K16c)** [21\.8\.1] - dodaje info o podniesionych przedmiotach
+- **[Placeholder API](https://modrinth.com/mod/eXts2L7r)** [2\.7\.2\+1\.21\.8] - support
+- **[Presence Footsteps](https://modrinth.com/mod/rcTfTZr3)** [1\.11\.1\+1\.21\.7] - dodaje nowe dźwięki kroków po różnych nawierzchniach
+- **[Puzzles Lib](https://modrinth.com/mod/QAGBst4M)** [21\.8\.6] - support
+- **[Resource Pack Options](https://modrinth.com/mod/TiF5QWZY)** [4\.13\.7] - dodaje możliwość customizacji niektórych resourcepacków z poziomu gry
+- **[ScalableLux](https://modrinth.com/mod/Ps1zyz6x)** [0\.1\.5\.1\+fabric\.abdeefa] - optymalizacja silnika oświetlenia
+- **[Scribble](https://modrinth.com/mod/yXAvIk0x)** [1\.6\.4] - ulepsza menu książki z piórem, dodaje m. in. formatowanie tekstu
+- **[Searchables](https://modrinth.com/mod/fuuu3xnx)** [1\.0\.2] - support
+- **[Show Me Your Skin\!](https://modrinth.com/mod/bD7YqcA3)** [1\.11\.3\+1\.21\.6] - dodaje opcje konfiguracji widoczności zbroi na graczach
+- **[Smoke Signals](https://modrinth.com/mod/pwEUrYbl)** [1\.1] - pozwala na kolorowanie dymu ogniska przez położenie pod nim wełny w odpowiednim kolorze
+- **[Smoke Suppression](https://modrinth.com/mod/nKcekY2P)** [1\.2\.5] - pozwala na wyłączenie dymu ogniska przez położenie po dnim odpowiedniego bloku (w domyślnej konfiguracji - terakota)
+- **[Smooth Scrolling Refurbished](https://modrinth.com/mod/trr0scVt)** [1\.4\.0] - dodaje ładne smooth scrollowanie do różnych menu
+- **[SmoothGui](https://modrinth.com/mod/j6yrZogB)** [0\.1\.3] - dodaje ładne animacje do otwierania różnych menu
+- **[Sodium](https://modrinth.com/mod/AANobbMI)** [0\.7\.0\+mc1\.21\.8] - optymalizacja gry
+- **[Sodium Extra](https://modrinth.com/mod/PtjYWJkn)** [0\.7\.0\+mc1\.21\.8] - optymalizacja gry
+- **[Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo)** [1\.21\.8\-1\.5\.1] - dodaje fizykę dla dźwięków, czyli m. in. pogłos i tłumienie
+- **[Sounds](https://modrinth.com/mod/ZouiUX7t)** [2\.4\.16\+edge\+1\.21\.8\+fabric] - dodaje nowe dźwięki, m. in. do poruszania się po HUDzie
+- **[Status Effect Bars](https://modrinth.com/mod/x02cBj9Y)** [1\.0\.9] - dodaje pasek trwania efektu do HUDu
+- **[Subtle Effects](https://modrinth.com/mod/4q8UOK1d)** [1\.13\.0] - dodaje multum różnych efektów audiowizualnych
+- **[TCDCommons API](https://modrinth.com/mod/Eldc1g37)** [4\.0\.1\+fabric\-1\.21\.8] - support
+- **[Tiny Item Animations](https://modrinth.com/mod/wMkevcSR)** [1\.2\.3] - dodaje animacje do podnoszenia przedmiotów w ekwipunku
+- **[VTDownloader](https://modrinth.com/mod/1E2sq1cp)** [2\.3\.5\+1\.21\.6] - dodaje menu customizacji resourcepacka Vanilla Tweaks
+- **[Visuality](https://modrinth.com/mod/rI0hvYcd)** [0\.7\.10\+1\.21\.5] - dodaje sporo ładnych efektów wizualnych i cząsteczek
+- **[Wakes](https://modrinth.com/mod/dlNu0RQY)** [0\.4\.3\+1\.21\.8] - dodaje nowe efekty wizualne dla wody
+- **[Xaero's Minimap](https://modrinth.com/mod/1bokaNcj)** [25\.2\.12] - dodaje minimapę do HUDu
+- **[Xaero's World Map](https://modrinth.com/mod/NcUtCpym)** [1\.39\.13] - dodaje dużą mapę, pokazującą nasze położenie, pozwalającą na stawianie waypointów itd
+- **[YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR)** [3\.7\.1\+1\.21\.6\-fabric] - support
