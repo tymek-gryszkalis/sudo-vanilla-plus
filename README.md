@@ -2,7 +2,7 @@
 
 Siemaneczko. Miło mi w końcu zaprezentować modpack **SUDO Vanilla+**. Paczka modów, która pojawiała się i znikała na przestrzeni ostatnich kilku lat w końcu została uporządkowana, przetestowana i przygotowana jako (prawie) plug & play.
 
-Paczka została przygotowana według mojego personalnego gustu. Jest pełna bajerów, fajnych animacji, nowych efektów (mocno inspirowanych modem _actions & stuff_) oraz optymalizacji, ale jednocześnie pozostaje wierna oryginalnemu stylowi minecrafta. Dokładna lista modów znajduje się [tutaj](./lists/mods.md), a resource-packów [tutaj](./lists/resourcepacks.md).
+Paczka została przygotowana według mojego personalnego gustu. Jest pełna bajerów, fajnych animacji, nowych efektów (mocno inspirowanych modem _actions & stuff_) oraz optymalizacji, ale jednocześnie pozostaje wierna oryginalnemu stylowi minecrafta. Dokładna lista i krótkie opisy modów znajduje się [tutaj](./lists/mods.md), a resource-packów [tutaj](./lists/resourcepacks.md).
 
 **SUDO V+** jest w pełni **client-sided** tj. nie potrzebuje żadnych instalacji po stronie serwera. Możecie jej używać zarówno w światach singleplayer jak i waniliowych serwerach multiplayer. Jest to też dobra baza do budowania własnych paczek. Porady dotyczące modyfikacji i wprowadzania zmian w paczce znajdują się poniżej.
 
@@ -45,7 +45,6 @@ Paczka jest przygotowana tak żeby nie trzeba było nic w niej grzebać, ale jed
   - Nie zmieniaj widoku zbroi, ponieważ zajmuje się tym już mod _Detail Armor Bar_.
   - Jeśli chcesz zmienić czcionkę, to wyłącz resourcepack _Compact Font_.
   - W ogóle przed edycją _Vanilla Tweaks_ zwróć uwagę na resourcepacki, czy któryś już nie zajmuje się rzeczą, którą chcesz ustawić.
-- **ClientSort Dark Mode** - wyłacz jeżeli w _Vanilla Tweaks_ wyłączyłxś ciemne GUI
 - **Fresh Moves** - tutaj nie do końca kwestia edycji samego resourcepacka, ale rzecz, której warto się przyjrzeć to animacje skinów, które dodaje. Resourcepack animuje oczy i brwi skinów, które są odpowiednio przygotowane. Instrukcje jak przygotować takiego skina można znaleźć [tutaj](https://github.com/IthanMendoza/Fresh-Moves/wiki).
 
 ### Shadery
