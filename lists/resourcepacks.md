@@ -1,39 +1,33 @@
-> Uwaga! Resourcepacki przedstawione są w kolejności w jakiej powinny być widoczne w grze. Jeżeli zostały wprowadzone jakieś zmiany, należy się upewnić, że kolejność resourcepacków odpowiada tej poniżej. Resourcepacki ładowane są w kolejności od dołu do góry.
+> Uwaga! Poniżej wylistowane są ręcznie dodane paczki. W menu _resourcepacks_ znajduje się więcej paczek pochodzących z niektórych modów. Wzorem do tworzenia własnych kombinacji resourcepacków jest profil _"SUDO V+ Default Loadorder"_.
 
-- SUDO V+ Assets
-- Brodi's Illagers FA
-- AL's Creepers Revamped
-- AL's Piglins Revamped
-- AL's Skeletons Revamped - Classic Face
-- AL's Skeletons Revamped
-- Bray's Zombie Overhaul
-- Icon Fresh
-- Example Animations
-- FA + Emissive
-- Fresh Moves
-- Fresh Animations
-- Gentler Weather Sounds
-- Eating Animation
-- ClientSort Dark Mode
-- Bibliophilia
-- Visual Armor Trims
-- Enchant Icons
-- Biome Water Color Particles
-- Compact Font
-- PDB3D's Blocky Armor Stand
-- Traben' 3D Armor
-- Mace But 3D
-- Bushier Bushes
-- Better Leaves
-- 3D Trial Chambers
-- Crops 3D
-- Chest Reimagined
-- Torches Reimagined
-- Connected Paths
-- Lambda Better Grass
-- Vanilla Tweaks
-- Flower Pots
-- Glass Pane Culling Fix
-- Default Connected Textures
-- Fabric Mods
-- Default
+- **3D Trial Chambers** - spawnery i klucze w trial chambers są w 3D
+- **AL's Creepers Revamped** - ulepszony wygląd i wizualne warianty creeperów (z supportem dla Fresh Animations)
+- **AL's Piglins Revamped** - ulepszony wygląd i wizualne warianty piglinów (z supportem dla Fresh Animations)
+- **AL's Skeletons Revamped - Classic Faces** - ulepszony wygląd i wizualne warianty szkieletów w wersji z niezmienionymi względem vanilli mordkami (z supportem dla Fresh Animations)
+- **Better Lanterns** - ładniejsze latarnie i łańcuchy w 3D
+- **Better Leaves** - bardziej "krzaczaste" liście drzew
+- **Bray's Zombie Overhaul** - ulepszony wygląd i wizualne warianty zombie (z supportem dla Fresh Animations)
+- **Bushier Bushes** - bardziej "krzaczaste" krzaczki zwykłe i jagodowe
+- **Connected Paths** - sprawia, że niektóre bloki trochę nachodzą na siebie, co daje bardziej dynamiczny wygląd świata
+- **Compact Font** - ładniejsza czcionka
+- **Crops 3D** - ładniejsze świeże marchewki, ziemniaki itd.
+- **Drodi's Illagers** - ulepszony wygląd i wizualne warianty illagerów w wersji z niezmienionymi względem vanilli mordkami (z supportem dla Fresh Animations)
+- **Eating Animation** - dodaje animację do jedzenia
+- **Enchant Icons** - dodaje ikonki do enchantów
+- **Fresh Animations: Emissive** - dodaje emisję światła do niektórych mobów (m. in. utopców i iron golemów)
+- **Fresh Animations** - dodaje ładniejsze i bardziej "smooth" animacje dla wszystkich mobów
+- **Fresh Moves** - dodaje ładniejsze i bardziej "smooth" animacje dla postaci graczy + dodaje animacje oczu jeśli skin jest odpowiednio przygotowany
+- **Gentler Weather Sounds** - zmienia dźwięki deszczu i burzy na trochę mniej inwazyjne i bardziej realistyczne
+- **Icon Fresh** - paczka dodająca kompatybilność między Xaero's minimap a Fresh Animations
+- **Mace but 3D** - ładniejszy mace w 3D
+- Minecarts with Wheels - dodaje kwadratowe kółka do wagoników
+- **Reimagined Armorstands** - nowe ładniejsze stojaki na zbroję
+- **Reimagined Chests** - dodaje wnętrze skrzyń w 3D i zmienia dźwięki na ładniejsze
+- **Reimagined Enchanting** - dodaje nowe efekty wizualne do enchantowania
+- **Reimagined Torches** - zmienia wygląd pochodni, m. in. palą się podczas trzymania i postawione na ścianie mają uchwyt
+- **SUDO V+ Assets** - modpackowe splashe, panoramy i logo
+- **Traben's 3D Armor** - zbroja w 3D
+- **Traben's 3D Arrows** - wystrzelone strzały mają model taki sam jak item
+- **Vanilla Tweaks** - ogromny zestaw mniejszych i większych zmian
+- **Visual Armor Trims** - dodaje oddzielny wygląd zbroi w ekwipunku dla każdego trimu
+- **Xali's Enchanted Book** - dodaje oddzielny wygląd dla każdej zenchantowanej książki
